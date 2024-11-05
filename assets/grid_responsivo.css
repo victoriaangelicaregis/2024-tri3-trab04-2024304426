@@ -56,3 +56,12 @@ header {
     width: 100%;
     object-fit: cover;
   }
+
+ dialog {
+    height: 25vh;
+    width: 25vw;
+    background-color: rgb(238, 238, 238);
+    border-radius: 20px;
+    border: 1px solid whitesmoke;
+  
+  }
